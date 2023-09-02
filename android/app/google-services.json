@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894745581166",
+    "project_id": "newtrends-a78ba",
+    "storage_bucket": "newtrends-a78ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894745581166:android:26690b3d26506c3219787f",
+        "android_client_info": {
+          "package_name": "com.example.new_trends_version"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894745581166-2onun8fhfff4f21r5nve63ftk3knabnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwOBWmivX0e1swm3UEkIm-QzmHzoUvK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894745581166-2onun8fhfff4f21r5nve63ftk3knabnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
